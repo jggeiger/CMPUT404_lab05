@@ -1,5 +1,7 @@
 html, body {
-    margin: 5;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    width: 50%;
     border: 5;
     font-size: 100%;
     background-color: #aa1e1e;
